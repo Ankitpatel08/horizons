@@ -1,0 +1,25 @@
+{
+  "name": "horizons",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitpansuriya/horizons.git"
+  },
+  "keywords": [
+    "horizons",
+    "quotes",
+    "pics",
+    "art"
+  ],
+  "author": "Ankit Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitpansuriya/horizons/issues"
+  },
+  "homepage": "https://github.com/ankitpansuriya/horizons#readme"
+}
