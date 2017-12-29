@@ -1,6 +1,3 @@
 #!/bin/bash
-#cat > README.md
-for d in 01-Quotes/*; do {
-	cp -r $d/* ./01-Quotes/
-}
-done
+node merge.js 01-Quotes/
+cp -r 01-Quotes/README.md ./
