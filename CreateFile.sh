@@ -11,6 +11,8 @@ for d in *; do {
 2. 
 3. 
 EOF
+
+cp 01-Quotes/$d/ 01-Quotes/
 cd ..
 }
 done
