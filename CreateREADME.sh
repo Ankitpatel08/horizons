@@ -1,6 +1,3 @@
 #!/bin/bash
-#cat > README.md
-for d in 01-Quotes/*; do {
-	echo "#include '$d.md'" >> README.md
-}
-done
+node merge.js 01-Quotes/
+mv 01-Quotes/README.md ./
